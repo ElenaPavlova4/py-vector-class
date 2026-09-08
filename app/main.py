@@ -48,4 +48,3 @@ class Vector:
         new_x = self.x * math.cos(rad) - self.y * math.sin(rad)
         new_y = self.x * math.sin(rad) + self.y * math.cos(rad)
         return Vector(new_x, new_y)
-    # write your code here
