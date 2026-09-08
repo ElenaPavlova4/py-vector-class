@@ -1,6 +1,7 @@
 import math
 from typing import Union
 
+
 class Vector:
 
     def __init__(self, x_coord: float, y_coord: float) -> None:
